@@ -1,33 +1,31 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of the software that you wrote to demonstrate the C++ language.}
+## Description 
+This program is a to do list that uses C++. In the program you can add and delete tasks and complete tasks all within the app.
 
-{Describe your purpose for writing this software.}
+## Purpose 
+I wrote this program to help me get normal tasks done each day because if it is not written down I will not remember to do it.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+## Video
+[Software Demo Video](https://youtu.be/BR-11hp78cY)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+## Tools
+I used visual studio and msys
 
-{Describe the programming language that you used and any libraries.}
+## Language
+I used C++ for this program
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Installing C++ in visual code](https://code.visualstudio.com/docs/languages/cpp)
+- [Chat GPT](https://www.bing.com/ck/a?!&&p=cdb59b8ddb27b36aJmltdHM9MTcxODg0MTYwMCZpZ3VpZD0yNTM4NmI0YS1kZWExLTZlYzQtMWZkMC02NTc3ZGYzODZmMGYmaW5zaWQ9NTIyMw&ptn=3&ver=2&hsh=3&fclid=25386b4a-dea1-6ec4-1fd0-6577df386f0f&psq=chat+gpt&u=a1aHR0cHM6Ly9vcGVuYWkuY29tL2Jsb2cvY2hhdGdwdC8&ntb=1)
+- [Youtube](https://www.youtube.com/watch?v=ZzaPdXTrSb8)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Add a chose to have daily tasks that rest everyday 
+- Give that option to download your own task to do list
  
